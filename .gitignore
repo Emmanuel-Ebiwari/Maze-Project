@@ -1,4 +1,8 @@
 /.vscode
-/src
+/src/include
+/src/lib
+/text
 *.dll
 *.txt
+*.exe
+ray.c
