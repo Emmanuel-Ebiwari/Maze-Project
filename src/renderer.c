@@ -1,9 +1,6 @@
 #include <stdlib.h>
 
-#include "config.h"
-#include "renderer.h"
-#include "raycaster.h"
-#include "player.h"
+#include "header/main.h"
 
 
 float calculateDrawHeight(float rayLength) {

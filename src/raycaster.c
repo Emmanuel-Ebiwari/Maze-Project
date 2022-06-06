@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-#include "config.h"
-#include "raycaster.h"
-#include "player.h"
+#include "header/main.h"
 
 /* Globals */
 Vector3f viewplaneDir = {VIEWPLANE_DIR_X, VIEWPLANE_DIR_Y, 1};

@@ -1,12 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-// #include "config.h"
-// #include "raycaster.h"
-// #include "renderer.h"
-// #include "player.h"
-// #include "map.h"
-// #include "gfx.h"
 #include "header/main.h"
 
 #define UNUSED(x) (void)(x)

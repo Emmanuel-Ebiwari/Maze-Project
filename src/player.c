@@ -1,8 +1,6 @@
 #include <stdlib.h>
 
-#include "config.h"
-#include "player.h"
-#include "raycaster.h"
+#include "header/main.h"
 
 
 /* Global data */

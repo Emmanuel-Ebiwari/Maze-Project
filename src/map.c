@@ -1,9 +1,6 @@
 #include <stdio.h>
+#include "header/main.h"
 
-#include "config.h"
-#include "map.h"
-#include "player.h"
-#include "raycaster.h"
 
 void renderOverheadMap() {
     int i, row, col;

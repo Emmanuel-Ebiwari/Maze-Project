@@ -1,5 +1,5 @@
 
-#include "linalg.h"
+#include "header/main.h"
 
 Vector3f vectorAdd(Vector3f* vec1, Vector3f* vec2) {
     Vector3f retVec = {vec1->x + vec2->x, vec1->y + vec2->y, 1};
